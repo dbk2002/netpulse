@@ -23,30 +23,40 @@ It monitors connectivity, DNS resolution, and latency of multiple devices in rea
 - Subprocess
 
 ## Project Structure
+```
 netpulse-dashboard
 │
 ├── app.py # Main dashboard application
 ├── devices.txt # List of devices/domains to monitor
 ├── netpulse_logo.png # Project logo
 └── README.md # Project documentation
+```
 
 ## ⚙️ Installation
-
 ### 1️⃣ Clone the Repository
+```
 git clone https://github.com/YOUR_USERNAME/netpulse-dashboard.git
+```
 
 ### 2️⃣ Navigate to the Project Folder
+```
 cd netpulse-dashboard
+```
 
 ### 3️⃣ Install Required Dependencies
+```
 pip install streamlit pandas
+```
 
 ### 4️⃣ Run the Application
+```
 streamlit run app.py
+```
 
 ### Then open in your browser:
+```
 http://localhost:8501
-
+```
 
 ----------------------------------------
 
