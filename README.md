@@ -125,10 +125,10 @@ It can serve as a **foundation for more advanced monitoring systems**.
 ## Screenshots
 
 ### Network Overview
-![Overview](screenshots/server status.png)
+![Overview](screenshots/server-status.png)
 
 ### Device Status Monitoring & Latency Visualization
-![Status](screenshots/device status and network latency.png)
+![Status](screenshots/device-status-latency.png)
 
 ### Monitoring Controls Section
-![Latency](screenshots/monitoring controls.png)
+![Latency](screenshots/monitoring-controls.png)
