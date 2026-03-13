@@ -121,3 +121,14 @@ It can serve as a **foundation for more advanced monitoring systems**.
 - Network topology visualization
 - Historical latency tracking
 - Email or alert notifications for device downtime
+
+## Screenshots
+
+### Network Overview
+![Overview](screenshots/server status.png)
+
+### Device Status Monitoring & Latency Visualization
+![Status](screenshots/device status and network latency.png)
+
+### Monitoring Controls Section
+![Latency](screenshots/monitoring controls.png)
